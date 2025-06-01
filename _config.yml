@@ -22,7 +22,7 @@ title: Ethan More's Portfolio
 email: em5152@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Try coming back later.
-baseurl: "/0index" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pikachurian
 github_username:  pikachurian
