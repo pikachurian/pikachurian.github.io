@@ -2,22 +2,45 @@
 layout: default
 ---
 
- {%- if site.posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in site.posts -%}
-      <li>
+<h1>Hello!</h1>
+<p>
+  I am Ethan More and my interest is in computer science and art.  I am self-taught in programming and 3D design.  For the past few years I've been creating video games and 3D renders.  Most of the games I've made have been developed in short time frames for game jams, rapid game development events where participants have a limited amount of time to create a game.  Over the past five years I've published and developed almost twenty games.  On the 3D art side, I've designed multiple deal toys/tombstones; these are pieces that commemorate the merging or acquisition of companies, such as HP and Cisco.  So far I've designed over a dozen deal toys.
+</p>
+
+<p>
+  This portfolio, highlighting some of my work, is split into two categories, 3D Modeling and Game Design/programming.  All the games featured here, and some of the 3D models, will have more info if you click on them.
+</p>
+
+<p>
+  Link to GitHub with the game files and source code for most of the projects is here: 
+  
+  <a href="https://github.com/pikachurian/Portfolio-Game-FIles">
+    portfolio source code.
+  </a>
+</p>
+
+<p>
+  Keep scrolling to view my projects in decending order of release.
+</p>
+
+
+
+{%- if site.posts.size > 0 -%}
+  {%- if site.page.list_title -%}
+    <h2 class="post-list-heading">{{ page.list_title }}</h2>
+  {%- endif -%}
+  <ul class="post-list">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in site.posts -%}
+    <li>
         
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-          {{ post.excerpt }}
-      </li>
-      {%- endfor -%}
-    </ul>
-    {%- endif -%}
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+        {{ post.excerpt }}
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
