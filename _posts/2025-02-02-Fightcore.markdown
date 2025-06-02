@@ -4,7 +4,7 @@ layout: default
 #date:   0000-00-00 00:00:00 -0400
 categories: Video-Game
 thumbnail: FightcoreThumbnail.png
-image-folder: './assets/img/fightcore/'
+image-folder: '/assets/img/fightcore/'
 #description: Fightcorin'
 
 game-engine: 'GameMaker Studio 2.'
@@ -29,7 +29,7 @@ sfx-software: 'Bfxr.'
 <h2>GAMEPLAY</h2>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreGameplayExample.png' alt='Gameplay example'/>
+    <img src= '{{ page.image-folder }}FightcoreGameplayExample.PNG' alt='Gameplay example'/>
     <figcaption>Figure 1: Example of gameplay.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ sfx-software: 'Bfxr.'
 </p>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreFig4.png' alt='Start of the nightcore version of the airship level.'/>
+    <img src= '{{ page.image-folder }}FightcoreFig4.PNG' alt='Start of the nightcore version of the airship level.'/>
     <figcaption>Figure 2: Start of the nightcore version of the airship level.</figcaption>
 </figure>
 
@@ -164,17 +164,17 @@ sfx-software: 'Bfxr.'
 <h2>IMAGES</h2>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreFig5.png' alt='Main menu.'/>
+    <img src= '{{ page.image-folder }}FightcoreFig5.PNG' alt='Main menu.'/>
     <figcaption>Figure 8: Main menu.</figcaption>
 </figure>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreFig6.png' alt='Nightcore song selection menu.'/>
+    <img src= '{{ page.image-folder }}FightcoreFig6.PNG' alt='Nightcore song selection menu.'/>
     <figcaption>Figure 9: Freeplay menu. Currently nightcore songs are shown. Tab can be pressed to show the regular song versions.</figcaption>
 </figure>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreFig7.png' alt='Victory screen.'/>
+    <img src= '{{ page.image-folder }}FightcoreFig7.PNG' alt='Victory screen.'/>
     <figcaption>Figure 10: Victory screen.</figcaption>
 </figure>
 
