@@ -4,7 +4,7 @@ layout: default
 #date:   0000-00-00 00:00:00 -0400
 categories: Video-Game
 thumbnail: FightcoreThumbnail.png
-image-folder: '/assets/img/fightcore/'
+image-folder: './assets/img/fightcore/'
 #description: Fightcorin'
 
 game-engine: 'GameMaker Studio 2.'
