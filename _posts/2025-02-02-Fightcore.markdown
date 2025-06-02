@@ -18,7 +18,7 @@ sfx-software: 'Bfxr.'
 <h1>FIGHTCORE</h1>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreThumbnail.png' alt='Game title' style="height: 300px;"/>
+    <img src= '{{ page.image-folder }}FightcoreThumbnail.png' alt='Game title'/>
     <figcaption></figcaption>
 </figure>
 
