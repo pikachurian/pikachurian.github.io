@@ -3,7 +3,8 @@ layout: project
 title:  "How Video Games Represent Trauma Through a Lack of Agency"
 year: 2025
 #date:   0000-00-00 00:00:00 -0400
-categories: Writing
+categories: 'Writing'
+category-text: 'Writing'
 thumbnail: Lisa.webp
 image-folder: '/assets/img/trauma/'
 #description: Fightcorin'

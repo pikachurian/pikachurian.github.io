@@ -3,7 +3,8 @@ layout: project
 title:  "FIGHTCORE"
 year: 2022
 #date:   0000-00-00 00:00:00 -0400
-categories: Video-Game
+categories: 'Video-Game'
+category-text: 'Video&nbsp;Game'
 thumbnail: FightcoreThumbnail.png
 image-folder: '/assets/img/fightcore/'
 #description: Fightcorin'

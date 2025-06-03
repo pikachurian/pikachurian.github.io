@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{%- if site.posts.size > 0 -%}
+    {%- if site.page.list_title -%}
+        <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="no-bullets"><!--<ul class="post-list">-->
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in site.posts -%}
+{%- if post.categories contains page.category -%}
+<li>
+
+<a href="{{ post.url | relative_url }}">
+   <h2>{{ post.title }}</h2>
+   <h4 style="margin-top: -10px;">{{ post.year }} &nbsp; {{ post.category-text }}</h4>
+   <img style="margin-bottom: 100px;" src="{{ post.image-folder }}{{ post.thumbnail }}">
+</a>
+      
+</li>
+{%- endif -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
+
+<style type="text/css">
+  .no-bullets, .no-bullets li {
+    list-style-type:none;
+  }
+</style>

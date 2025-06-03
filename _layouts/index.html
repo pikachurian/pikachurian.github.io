@@ -43,7 +43,7 @@ layout: default
         <!--{{ post.excerpt }}-->
       <a href="{{ post.url | relative_url }}">
         <h2>{{ post.title }}</h2>
-      <h4 style="margin-top: -10px;">{{ post.year }}</h4>
+      <h4 style="margin-top: -10px;">{{ post.year }} &nbsp; {{ post.category-text }}</h4>
         <img style="margin-bottom: 100px;" src="{{ post.image-folder }}{{ post.thumbnail }}">
       </a>
       
