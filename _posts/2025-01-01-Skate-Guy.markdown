@@ -1,0 +1,104 @@
+---
+layout: project
+title:  "Skate Guy"
+year: 2022
+#date:   0000-00-00 00:00:00 -0400
+categories: Video-Game
+thumbnail: SkateGuyThumbnail.png
+image-folder: '/assets/img/skate-guy/'
+
+game-engine: 'GameMaker Studio 2.'
+art-software: 'Aseprite.'
+music-software: ''
+sfx-software: 'Bfxr.'
+
+#![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
+---
+
+<h1>Skate Guy</h1>
+
+<figure>
+    <img src= '{{ page.image-folder }}SkateGuyThumbnail.png' alt='Game title'/>
+    <figcaption></figcaption>
+</figure>
+
+<a href="https://pikachurian.itch.io/skate-guy" class="pika-button">
+    Game Link
+</a>
+
+<h2>GAMEPLAY</h2>
+
+<figure>
+    <img src= '{{ page.image-folder }}SkateGuyFig1.PNG' alt='Gameplay example with balloons'/>
+    <figcaption>Figure 1: Gameplay. The player character can launch from the balloons. The player character is on the left side of the screen. The score is in the upper left corner.</figcaption>
+</figure>
+
+<p>
+    Skate Guy is trying to get some serious airtime; see how long you can stay in the air and delay the inevitable pull of gravity. This game only uses a single input/button; almost any key on the keyboard will work. Holding the button will cause the player character, Skate Guy, to hold his skateboard, causing him to fall slower. Release the button while over an object to launch yourself from it. As long as you’re overlapping an object you can launch from it, though launching off the top of an object will give you a boost. The sound effects for a normal launch and a boosted launch are different. At the beginning of the game, before launching into the air, repeatedly press the button to increase your initial launch height. The more you press the button, the higher you’ll go. The game ends when your character falls off the bottom edge of the screen. Aim for a high score. Your score is determined by how long you stay in the air. Also, as you travel high up, by launching off objects, the scenery will change, and eventually, you’ll be in space.
+</p>
+
+<p>
+    While in menus, tapping the button changes your selection, and holding it will choose the selected option.
+</p>
+
+<h2>INFO</h2>
+
+<p>
+    Skate Guy was created for 50th Ludum Dare over a period of 72 hours. I was working on a different game for the jam. However, mid-jam I realized that the scope of that game was too large for the time we had remaining, so I put the current idea on hold and worked with my siblings to brainstorm a new game concept. We decided on the concept for Skate Guy. I wanted the game to be as minimalistic as possible. To this end, my brother drew the sprites in a monochromatic color scheme, and I programmed the game to only need a single button. Ideally, this also makes the game more accessible, since those with certain motor infirmities will find a one-button game potentially easier to play.
+</p>
+
+<p>
+    While Skate Guy is one of my smaller games, I feel that its streamlined and elegant design reflects a growth in my development ability. For example, to know what to take out in order to distill a concept into its purest form.
+</p>
+
+<h2>ROLES & CREDITS</h2>
+
+<p>
+    I was a designer and sole coder for the game.
+</p>
+
+<h4>GAME ENGINE</h4>
+<p>{{ page.game-engine }}</p>
+
+<h4>ART SOFTWARE</h4>
+<p>{{ page.art-software }}</p>
+
+<h4>SOUND EFFECT SOFTWARE</h4>
+<p>{{ page.sfx-software }}</p>
+
+<h2>IMAGES</h2>
+
+<figure>
+    <img src= '{{ page.image-folder }}SkateGuyFig2.png' alt='Skate Guy in space'/>
+    <figcaption>Figure 2: In space. The button is being held since the player character is holding his skateboard, this slows his decent.</figcaption>
+</figure>
+
+<figure>
+    <img src= '{{ page.image-folder }}SkateGuyFig3.PNG' alt='Launch example'/>
+    <figcaption>Figure 3: Beginning of the game. Mash the button to gain more altitude on launch. The ramp next to the player character will soon launch him.</figcaption>
+</figure>
+
+<figure>
+    <img src= '{{ page.image-folder }}SkateGuyFig4.PNG' alt='Victory screen.'/>
+    <figcaption>Figure 4: Main menu. The fullscreen option toggles fullscreen mode.</figcaption>
+</figure>
+
+
+
+
+
+
+<style type="text/css">
+    a.toolbar {
+      color: wheat;
+      background-color: #f44336;
+      padding: 14px 25px;
+      display: inline-block;
+    }
+    a.pika-button {
+        color: wheat;
+        background-color:rgb(59, 149, 39);
+        padding: 14px 25px;
+        display: inline-block; 
+    }
+</style>

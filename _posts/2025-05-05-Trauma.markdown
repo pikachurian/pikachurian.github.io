@@ -1,0 +1,307 @@
+---
+layout: project
+title:  "How Video Games Represent Trauma Through a Lack of Agency"
+year: 2025
+#date:   0000-00-00 00:00:00 -0400
+categories: Writing
+thumbnail: Lisa.webp
+image-folder: '/assets/img/trauma/'
+#description: Fightcorin'
+
+#![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
+---
+
+<h1>How Video Games Represent Trauma Through a Lack of Agency</h1>
+
+<p>
+    <i>
+        Note: This is the final paper I wrote for Intro to Game Studies GAMES-UT 110 at NYU Tisch Game Center
+    </i>
+</p>
+
+<p>
+Video games have been shown to reduce traumatic flashbacks in people (Ella et al. 1201) and can help people engage with trauma by giving them agency in the game (Austin and Cooper 141), as
+trauma “is often associated with a severe loss of agency throughout the traumatic experience” (Kuznetsova 12). However, through a lack of agency, games can represent trauma, which can create awareness and empathy for traumatized people, as feeling a lack of agency is one of the effects of
+trauma (van der Kolk 170). Some ways games can create a lack of agency is through a loss of control
+over the player character, choices with meaningless outcomes, and the denial of a choice that existed
+previously in the game or a similar game. The games I’m going to use for examples are <i>LISA: The
+Painful, Undertale,</i> and <i>Depression Quest.</i> All of these games are narrative focused, address topics of
+mental health, and involve moments where the player’s agency is limited with thematic purpose.
+</p>
+
+<h2>Defining Trauma in Games</h2>
+
+<p>
+Before going into examples, I need to define some terms first, starting with agency. Agency as
+defined by Murray is “the satisfying power to take meaningful action and see the results of our
+decisions and choices” (126). Part of the interactive nature of video games is giving players the agency
+to make decisions in the game, this can be deciding when and where to jump in a platformer, or making
+narrative choices in a cybertext game. As agency can be seen as fundamental to video games, a lack of
+agency can create a sense of uneasiness in players. Going back to the platformer example, if the camera
+scrolled at a constant speed instead of following the player, it would create a sense of panic as if the
+player is being chased. This distress caused by a lack of agency in video games can be used to represent
+trauma.
+</p>
+
+<p>
+Trauma is often associated with a lack of agency. In the beginning of chapter 13 in <i>The Body
+Keeps the Score,</i> van der Kolk states that “trauma robs you of the feeling that you are in charge of
+yourself” (170). This means that traumatized people feel a loss of agency in their lives. Trauma also has
+other effects on an individual besides a loss of agency. The American Psychological Association
+defines trauma as an “emotional response to a terrible event like an accident, crime, natural disaster,
+physical or emotional abuse, neglect, experiencing or witnessing violence, death of a loved one, war,
+and more. Immediately after the event, shock and denial are typical. Longer term reactions include
+unpredictable emotions, flashbacks, strained relationships, and even physical symptoms like headaches
+or nausea” (“Trauma”) and Sapach characterizes trauma, specifically complex post-traumatic stress
+disorder, CPTSD, as having “severe and persistent 1) problems in affect regulation; 2) beliefs about
+oneself as diminished, defeated or worthless, accompanied by feelings of shame, guilt or failure related
+to the traumatic event; and 3) difficulties in sustaining relationships and in feeling close to others” (32).
+With these definitions, together with van der Kolk’s which includes a lack of agency, we have a set of
+heuristics to discuss trauma in video games.
+</p>
+
+<p>
+Previous research has been done on how games can be used to engage trauma. For example, one
+study found that playing <i>Tetris</i> reduced traumatic flashbacks in individuals shown a trauma film (Ella et
+al. 1201) and there is now a virtual reality project being developed called <i>BRAVEMIND</i> to help soldiers
+with PTSD (Mozgai et al.). However, while research has been done on how games can help address
+trauma in trauma victims, I intend to examine, <i>LISA: The Painful, Undertale,</i> and <i>Depression Quest</i> to
+learn how games can use a lack of agency to represent, or create an approximative feeling of, living
+with trauma as a means to create awareness of the experience of traumatized individuals.
+</p>
+
+<h2>LISA: The Painful</h2>
+
+<figure>
+    <img src= '{{ page.image-folder }}Lisa.webp' alt='Flashback scene with a fleshy red background'/>
+    <figcaption>Red fleshy background appearing during a flashback. From <i>LISA: The Painful.</i></figcaption>
+</figure>
+
+<p>
+The game <i>LISA: The Painful</i> is an RPG about a man, Brad, trying to find his lost adoptive
+daughter in a post-apocalypse. Brad’s trauma stems from his growing up in a household where he had
+to witness and suffer abuse, and the trauma from this abuse affects Brad’s actions and the player’s
+agency. For example, Brad suffers flashbacks from his past and his motivation to protect his adoptive
+daughter stems from not being able to save his sister from abuse. Whenever Brad’s trauma surfaces, the
+background turns a fleshly red to symbolize his pain.
+</p>
+
+<p>
+While flashbacks don’t directly relate to a lack of agency in games, as they can be seen as
+cutscenes, which are common to the medium, one scene in particular uses the motif of the red fleshy
+background along with a sudden loss of control of Brad to symbolize his succumbing to his trauma in
+the form of unpredictable emotions. At the start of this scene, Brad discovers that his friend, Rick,
+knows where Brad’s daughter is and is keeping her away from Brad. At this moment, the player still
+has agency over Brad, so to progress, the game makes the player have Brad beat Rick for information.
+While this act in itself can be traumatizing, the player, and Brad, are still in control. However, Brad’s
+anger builds as Rick refuses to give Brad information, climaxing in the red fleshy background
+returning, and the player losing agency over Brad, who beats Rick almost to death outside of the
+player’s control. In this scene, the lack of agency the player has over Brad is representative of the lack
+of agency Brad has over his emotions, which have been overwhelmed due to his trauma resurfacing,
+which is shown symbolically by the return of the red background.
+</p>
+
+<p>
+In the narrative of <i>LISA: The Painful,</i> Brad uses a drug called “joy” to repress his flashbacks.
+This is sadly an accurate portrayal of how some individuals “numb themselves with drugs” (van der
+Kolk 64) to deal with trauma. In <i>LISA: The Painful</i> this manifests as the withdrawal system, where
+certain characters, such as Brad, are dependent on “joy,” and will occasionally suffer the withdrawal
+status effect, weakening their performance in combat. These withdrawals can be temporarily alleviated
+with time or consuming “joy,” but will always return. Withdrawals cause the player to lack agency over
+Brad’s combat performance and even though the player can choose to use “joy” to alleviate
+withdrawals, in the end it is a meaningless decision as the withdrawals will return regardless. The
+player’s lack of agency of Brad’s combat performance due to withdrawals is representative of Brad’s
+lack of agency over his emotions and flashbacks due to his trauma.
+</p>
+
+<p>
+With Brad’s withdrawals, his flashbacks, and traumatic outbursts, the game removes the
+player’s agency through loss of control over their character. A common theme, among the games
+examined in this writing, for the removal of agency in games is creating a contrast. Brad’s outbursts
+where he beats his friend close to death is effective at showing Brad’s unstable emotions because the
+first few hits are initiated by the player. When the player loses control over Brad, Brad’s own lack of
+control over his emotion as he attacks his friend on his own stands out to the player because of the
+contrast to when the player previously had control over Brad. Similarly, Brad’s withdrawals provide a
+contrast to typical RPGs, like the <i>Pokémon</i> series, where status conditions with vague representational
+meaning, such as confusion, can be instantly and permanently cured with the single use of a medical
+drug. Unlike the typical handling of status conditions, withdrawals in <i>LISA: The Painful</i> depict
+characters’ persistent struggle with their addiction, and in Brad’s case trauma, by removing the player’s
+agency to cure them of their status condition through the ultimately meaningless choice of having them
+take “joy” or not.
+</p>
+
+<h2>Undertale</h2>
+
+<figure>
+    <img src= '{{ page.image-folder }}Undertale.png' alt='Asgore destroying the mercy GUI button'/>
+    <figcaption>Asgore destroying the “mercy” button. From <i>Undertale.</i></figcaption>
+</figure>
+
+<p>
+While <i>LISA: The Painful</i> uses a lack of agency to represent its protagonist’s trauma, <i>Undertale</i>
+uses a lack of agency to create empathy for its antagonist’s, Asgore’s, trauma. Asgore is the ruler of the
+underground and before the events of the game both his son and his son’s best friend have died. His
+goal is for his people to escape the underground, which requires him to harvest human souls. Because
+of these circumstances, Asgore is a traumatized individual who carries guilt from his actions.
+</p>
+
+<p>
+At the start of the fight against Asgore, Asgore destroys the “mercy” button. In <i>Undertale,</i> the
+“mercy” button opens a menu that lets a player flee from a fight or spare the attacker. By destroying the
+“mercy” button, Asgore and the game are reducing the player’s agency by limiting their options, by
+removing the choice to spare Asgore. Asgore destroys the player’s “mercy” button, because he feels
+shouldn’t be spared and doesn’t deserve mercy. Asgore’s “feelings of shame, guilt or failure related to
+the traumatic event” (Sapach 32) are symptoms of CPTSD. By having Asgore remove the player’s
+agency to spare him, the game communicates the worthlessness that Asgore feels, which stems from his trauma.
+</p>
+
+<p>
+In <i>Undertale,</i> the sudden loss of the “mercy” button is effective because it is a cornerstone of
+the game’s thematic message and mechanics. One of <i>Undertale</i>’s unique features is that it is an RPG
+where no one has to die. To accomplish this, the game’s spare option in the “mercy” menu allows
+players to conclude fights peacefully. The sudden removal of this option is not only impactful as a
+contrast to the rest of the game where the “mercy” menu is available, it stands in contrast to the game’s
+previous thematic message of all fights having a peaceful option, by denying the player’s choice to
+spare Asgore as a way to represent him as a character who’s trauma prevents him from seeking solace.
+</p>
+
+<h2>Depression Quest</h2>
+
+<figure>
+    <img src= '{{ page.image-folder }}DepressionQuest.jpg' alt='Depression Quest Gameplay'/>
+    <figcaption>Unselectable choices during a conversation. From <i>Depression Quest.</i></figcaption>
+</figure>
+
+<p>
+While <i>Depression Quest</i> doesn’t deal with trauma, it’s goal is to represent what it feels like to
+have depression, trauma-related depression is one of possible “stress reactions to trauma” (Wang et al.
+331) and the lack of agency in <i>Depression Quest</i> can be interpreted as a representation of trauma in
+addition to representing depression. Similar to <i>Undertale,</i> the lack of agency is <i>Depression Quest</i>
+involves denied choice. In most text-based games involving narrative choices, most choices shown can
+be selected and if not they can be selected under certain conditions, such as obtaining a key to select an
+option that opens a door. However, in <i>Depression Quest</i> some narrative choices are present to the
+player, but are unselectable and crossed out in red. In the game’s story, these are usually healthy
+options, such as being open with a friend during a conversation. By crossing out these options, the
+More 7
+game removes the player’s agency, which represents the denied agency a person with depression, or
+trauma, feels in their life. While the protagonist of <i>Depression Quest</i> may visualize the healthy choice
+to make, their trauma, to quote Sapach on CPTSD, causes “difficulties in sustaining relationships and
+in feeling close to others” (32).
+</p>
+
+<p>
+Similar to how <i>Undertale</i> limits the player’s agency by denying them the choice of sparing
+Asgore, <i>Depression Quest</i> also denies a player’s choice by having some narrative choices be present
+but unselectable. While <i>Undertale</i>’s denied choice of opening the “mercy” menu contrasts with the
+menu’s importance to the game’s thematic message, the denied choice of <i>Depression Quest</i> contrasts
+with the agency expected from text-based adventure games with narrative choices. For example, the
+popular <i>Choose-Your-Own-Adventure</i> series of books, the analogue equivalent of a cybertext video
+game, is marketed as giving the player the agency to shape the story. <i>Depression Quest</i> represents
+depression, and trauma, by showing the player the choices available to them, but removing their agency
+to pick certain choices as the protagonist’s story isn’t entirely shaped on their own, but also by their
+depression.
+</p>
+
+<h2>Conclusion</h2>
+
+<p>
+As shown in these game examples, limiting a player’s agency in games through removing
+control over their character, meaningless choices, or denied choices, can be used to represent trauma in
+a game, whether it be the player character’s trauma or the antagonist’s. Video games are a large
+industry, in the United States, sixty-one percent of the population has been reported “playing video
+games for at least one hour every week” (“Essential Facts”). With the broad impact of games, using the
+lack of agency as a tool to represent traumatic experiences can help players better understand the
+experience of traumatized individuals and raise awareness for their struggles.
+</p>
+
+<h2>Works Cited</h2>
+
+<ul>
+    <li class="citation">
+        Austin, Hailey, and Lydia Cooper. “Feeling the Narrative Control(Ler): Casual Art Games as
+Trauma Therapy.” Replay, vol. 1, no. 8, 2021, pp. 129–43.
+    </li>
+
+    
+<li class="citation">
+    Ella, James, et al. “Computer Game Play Reduces Intrusive Memories of Experimental Trauma via
+Reconsolidation-Update Mechanisms.” Psychological Science, vol. 26, no. 8, 2015, pp. 1201–15,
+https://doi.org/10.1177/0956797615583071.
+</li>
+
+<li class="citation">
+Essential Facts About the U.S. Video Game Industry. Entertainment Software Association, 2024, p.
+17, https://www.theesa.com/resources/essential-facts-about-the-us-video-game-industry/2024-
+data/.
+</li>
+
+<li class="citation">
+Fox, Toby. Undertale. 2015.
+</li>
+
+<li class="citation">
+Jorgensen, Austin. LISA: The Painful. 2014.
+</li>
+
+<li class="citation">
+Kuznetsova, Evgeniya. Trauma in Games: Narrativizing Denied Agency, Ludonarrative Dissonance
+and Empathy Play. 2017. University of Alberta.
+</li>
+
+<li class="citation">
+Mozgai, Sharon, et al. “Building BRAVEMIND Vietnam: User-Centered Design for Virtual Reality
+Exposure Therapy.” 2021 IEEE International Conference on Artificial Intelligence and Virtual
+Reality (AIVR), 2021, pp. 247–50. IEEE Xplore,
+https://doi.org/10.1109/AIVR52153.2021.00056.
+</li>
+
+<li class="citation">
+Murray, Janet. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. The Free Press,
+1997.
+</li>
+
+<li class="citation">
+Quinn, Zoë. Depression Quest. 2013.
+</li>
+
+<li class="citation">
+Sapach, Sonja. Let’s Play with Trauma: An Autoethnographic Study of Traumatic Experience,
+Alienation, and Control in Video Games. 2021. University of Alberta.
+</li>
+
+<li class="citation">
+“Trauma.” American Psychological Association, https://www.apa.org/topics/trauma.
+</li>
+
+<li class="citation">
+van der Kolk, Bessel. The Body Keeps the Score. Penguin Books, 2014.
+</li>
+
+<li class="citation">
+Wang, Shi-Kai, et al. “Psychological Trauma, Posttraumatic Stress Disorder and Trauma-Related
+Depression: A Mini-Review.” World Journal of Psychiatry, vol. 13, no. 6, June 2023, pp. 331–39.
+DOI.org (Crossref), https://doi.org/10.5498/wjp.v13.i6.331.
+</li>
+
+</ul>
+
+
+
+<style type="text/css">
+    a.toolbar {
+      color: wheat;
+      background-color: #f44336;
+      padding: 14px 25px;
+      display: inline-block;
+    }
+    a.pika-button {
+        color: wheat;
+        background-color:rgb(59, 149, 39);
+        padding: 14px 25px;
+        display: inline-block; 
+    }
+
+    li.citation {
+        margin-bottom: 10px;
+    }
+</style>

@@ -1,6 +1,7 @@
 ---
-layout: default
-#title:  "Fightcore"
+layout: project
+title:  "FIGHTCORE"
+year: 2022
 #date:   0000-00-00 00:00:00 -0400
 categories: Video-Game
 thumbnail: FightcoreThumbnail.png
@@ -14,6 +15,7 @@ sfx-software: 'Bfxr.'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
+
 
 <h1>FIGHTCORE</h1>
 
