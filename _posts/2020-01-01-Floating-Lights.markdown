@@ -5,7 +5,7 @@ year: 2020
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
-thumbnail: Lisa.webp
+thumbnail: floating-lights.png
 image-folder: '/assets/img/floating-lights.png/'
 #description: Fightcorin'
 
@@ -14,7 +14,7 @@ image-folder: '/assets/img/floating-lights.png/'
 
 <h1>Floating Lights</h1>
 
-<img src="/assets/img/floating-lights.png/" alt="Floating Lights 3D art piece">
+<img src="/assets/img/floating-lights.png" alt="Floating Lights 3D art piece">
 
 <p>
 This is a 3D art piece I made in Blender to experiment with lighting and composition.
