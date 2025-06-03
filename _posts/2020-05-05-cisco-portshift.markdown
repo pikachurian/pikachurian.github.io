@@ -1,32 +1,25 @@
 ---
 layout: project
-title:  "ZecOps / Jamf Deal Toy"
-year: 2023
+title:  "Cisco / Portshift Deal Toy"
+year: 2020
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
-thumbnail: 'zecops-jamf1.png'
+thumbnail: 'cisco-portshift.png'
 image-folder: '/assets/img/deal-toys/'
 #description: Fightcorin'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>ZecOps / Jamf Deal Toy</h1>
+<h1>Cisco / Portshift Deal Toy</h1>
 
-<img src="{{ page.image-folder }}zecops-jamf1.png" alt="Reptilian eye looking at a phone">
-
-<p>
-The eye part of the design is based on zecOps's logo and is placed so that it appears to be looking at the phone.
-</p>
-
-<img src="{{ page.image-folder }}zecops-jamf2.png" alt="Top down look of the deal toy">
-
-<img src="{{ page.image-folder }}zecops-jamf3.png" alt="Jamf logo">
+<img src="{{ page.image-folder }}cisco-portshift.png" alt="A spinning Kubernetes logo attached to Portshift's logo">
 
 <p>
-The design contains a smartphone since ZecOps focuses on cyber security.  From above, you can see that the base is Jamf's logo.
+This deal toy is constructed from enlarged versions of Cisco's and Portshift's logos. The white wheel is the logo for Kubernetes and can spin. The crown on top of this logo says "Runtime," because I heard Kubernetes being referred to as "the king of the runtime" by my clients.
 </p>
+
 
 <style type="text/css">
     a.toolbar {

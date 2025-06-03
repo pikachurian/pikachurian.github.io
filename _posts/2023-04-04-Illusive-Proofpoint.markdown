@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Illusive / Proofpoint"
+title:  "Illusive / Proofpoint Deal Toy"
 year: 2023
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
@@ -12,7 +12,7 @@ image-folder: '/assets/img/deal-toys/'
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>Illusive / Proofpoint</h1>
+<h1>Illusive / Proofpoint Deal Toy</h1>
 
 <img src="{{ page.image-folder }}illusive-proofpoint1.png" alt="A metal castle">
 

@@ -1,32 +1,25 @@
 ---
 layout: project
-title:  "ZecOps / Jamf Deal Toy"
-year: 2023
+title:  "Equistone / Eperi Deal Toy"
+year: 2022
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
-thumbnail: 'zecops-jamf1.png'
+thumbnail: 'equistone-eperi.png'
 image-folder: '/assets/img/deal-toys/'
 #description: Fightcorin'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>ZecOps / Jamf Deal Toy</h1>
+<h1>Equistone / Eperi Deal Toy</h1>
 
-<img src="{{ page.image-folder }}zecops-jamf1.png" alt="Reptilian eye looking at a phone">
-
-<p>
-The eye part of the design is based on zecOps's logo and is placed so that it appears to be looking at the phone.
-</p>
-
-<img src="{{ page.image-folder }}zecops-jamf2.png" alt="Top down look of the deal toy">
-
-<img src="{{ page.image-folder }}zecops-jamf3.png" alt="Jamf logo">
+<img src="{{ page.image-folder }}equistone-eperi.png" alt="A cloud with binary code on top of a mountain">
 
 <p>
-The design contains a smartphone since ZecOps focuses on cyber security.  From above, you can see that the base is Jamf's logo.
+The design of a cloud on top of a mountain symbolizes data being stored in a cloud. The word Equistone is placed on the mountain because mountains are made out of stone. The binary in the background spells out the companies' names and was designed using eperi's logo as reference.
 </p>
+
 
 <style type="text/css">
     a.toolbar {

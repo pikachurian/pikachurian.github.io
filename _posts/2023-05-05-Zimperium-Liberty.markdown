@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Zimperium / Liberty Strategic Capital"
+title:  "Zimperium / Liberty Strategic Capital Deal Toy"
 year: 2023
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
@@ -12,12 +12,12 @@ image-folder: '/assets/img/deal-toys/'
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>Zimperium / Liberty Strategic Capital</h1>
+<h1>Zimperium / Liberty Strategic Capital Deal Toy</h1>
 
 <img src="{{ page.image-folder }}zimperium-liberty.png" alt="A spiraling z-shape">
 
 <p>
-One of my latest deal toy designs.  For this piece I aimed for a more minmalist style.  The main feature is the white ribbon which curls into a "Z" shape.  This is an interpretation of Zimperium's logo in a 3D space.
+One of my latest deal toy designs.  For this piece I aimed for a more minmalist style.  The main feature is the white ribbon which curls into a "Z" shape.  This is an interpretation of Zimperium's logo in a 3D space. Unfortunately, this designed has not been produced physically.
 </p>
 
 
