@@ -6,7 +6,7 @@ year: 2020
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
 thumbnail: floating-lights.png
-image-folder: '/assets/img/floating-lights.png/'
+image-folder: '/assets/img/'
 #description: Fightcorin'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
