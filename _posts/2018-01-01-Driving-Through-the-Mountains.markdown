@@ -1,23 +1,23 @@
 ---
 layout: project
-title:  "Floating Lights"
-year: 2020
+title:  "Driving Through the Mountains"
+year: 2018
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
-thumbnail: 'floating-lights.png'
+thumbnail: 'driving-through-the-mountains.png'
 image-folder: '/assets/img/'
 #description: Fightcorin'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>Floating Lights</h1>
+<h1>Driving Through the Mountains</h1>
 
-<img src="/assets/img/floating-lights.png" alt="Floating Lights 3D art piece">
+<img src="/assets/img/driving-through-the-mountains.png" alt="Cars driving through mountains">
 
 <p>
-This is a 3D art piece I made in Blender to experiment with lighting and composition.
+This is my first render.  It depicts cars driving up a mountain range.  I made it to teach myself Blender, a 3D modeling software.  I continue to use Blender for my 3D projects.
 </p>
 
 

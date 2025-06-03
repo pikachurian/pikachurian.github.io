@@ -1,23 +1,23 @@
 ---
 layout: project
-title:  "Floating Lights"
-year: 2020
+title:  "Zimperium / Liberty Strategic Capital"
+year: 2023
 #date:   0000-00-00 00:00:00 -0400
 categories: '3D-Design'
 category-text: '3D&nbsp;Design'
-thumbnail: 'floating-lights.png'
-image-folder: '/assets/img/'
+thumbnail: 'zimperium-liberty.png'
+image-folder: '/assets/img/deal-toys/'
 #description: Fightcorin'
 
 #![Image]({{ site.page }}/assets/img/FightcoreThumbnail.png)
 ---
 
-<h1>Floating Lights</h1>
+<h1>Zimperium / Liberty Strategic Capital</h1>
 
-<img src="/assets/img/floating-lights.png" alt="Floating Lights 3D art piece">
+<img src="{{ page.image-folder }}zimperium-liberty.png" alt="A spiraling z-shape">
 
 <p>
-This is a 3D art piece I made in Blender to experiment with lighting and composition.
+One of my latest deal toy designs.  For this piece I aimed for a more minmalist style.  The main feature is the white ribbon which curls into a "Z" shape.  This is an interpretation of Zimperium's logo in a 3D space.
 </p>
 
 
