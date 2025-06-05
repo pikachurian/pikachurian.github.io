@@ -81,7 +81,7 @@ sfx-software: 'Bfxr, and Audacity.'
 <h2>IMAGES</h2>
 
 <figure>
-    <img src= '{{ page.image-folder }}FightcoreFig5.PNG' alt='Main menu.'/>
+    <img src= '{{ page.image-folder }}FightcoreFig5.PNG'/>
     <figcaption>Figure 8: Main menu.</figcaption>
 </figure>
 
