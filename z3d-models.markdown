@@ -11,7 +11,7 @@ category: '3D-Design'
 
 <h1>3D Design</h1>
 <p>
-  Here are 3D designs I made, including deal toys, commemorative art pieces to celebrate the closing of business deals, to cake designs, and 3D art pieces.
+  Here are 3D designs I made, including deal toys, commemorative art pieces to celebrate the closing of business deals; cake designs; 3D art pieces; and a short film.
 </p>
 
 <p>
