@@ -88,6 +88,12 @@ sfx-software: 'Audacity, FL Studio.'
 <h4>ART SOFTWARE</h4>
 <p>{{ page.art-software }}</p>
 
+<h4>MUSIC SOFTWARE</h4>
+<p>{{ page.music-software }}</p>
+
+<h4>SOUND EFFECT SOFTWARE</h4>
+<p>{{ page.sfx-software }}</p>
+
 
 <h2>CONTROLS</h2>
 
